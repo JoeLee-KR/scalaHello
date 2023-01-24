@@ -1,6 +1,6 @@
 # scalaHello
 
-Hello, use joepush, joepull
+...Hello, use joepush, joepull
 
 OR cerate a new repository on the command line
 ```
