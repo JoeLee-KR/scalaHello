@@ -1,4 +1,5 @@
 # scalaHello
+scalaHello Study
 
 ...Hello, use joepush, joepull
 - Ref, useful flow to handle github
